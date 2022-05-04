@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "psycho 개발자 지망생의 블로그"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "공부 정리용 블로그"
+  location         : "South Korea"
+  email            : "apdlvmf486@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
